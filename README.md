@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Welcome to  PerfectAccelerators
 
-You can use the [editor on GitHub](https://github.com/PerfectAccelerators/PerfectAccelerators.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You will find a group of libraries to help you accelerate your Server Side Swift development with Perfect.
+**These libraries are brought to you by the Perfect Community!**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ApplicationConfiguration
 
-### Markdown
+A simple and codable way to configure a Perfect Application.
+[GitHub repo](https://github.com/PerfectAccelerators/ApplicationConfiguration)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Curly
 
-```markdown
-Syntax highlighted code block
+A Server Side HTTP client tthat can simplify using cURL!
+[GitHub repo](https://github.com/PerfectAccelerators/curly)
 
-# Header 1
-## Header 2
-### Header 3
+### PerfectTemplate
 
-- Bulleted
-- List
+A Perfect Template project with typed routing, configuration, filters, and MySQL.
+[GitHub repo](https://github.com/PerfectAccelerators/PerfectTemplate)
 
-1. Numbered
-2. List
+### PerfectValidation
 
-**Bold** and _Italic_ and `Code` text
+A micro library to easily define and apply validation rules for Perfect Framework.
+[GitHub repo](https://github.com/PerfectAccelerators/PerfectValidation)
 
-[Link](url) and ![Image](src)
-```
+### ScantORM
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+A lite, barely sufficient ORM for Perfect with Codables built on top of the PerfectCRUD.
+[GitHub repo](https://github.com/PerfectAccelerators/ScantORM)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PerfectAccelerators/PerfectAccelerators.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Contributing
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+To contribute a feature or idea to PerfectAccelerators:
+- create an issue explaining the feature/idea or
+- fork the project, make your changes and submit a pull request :)
